@@ -84,12 +84,22 @@ body {
         background-color: #f39c12;
     }
 
-    .p2,
-    .p3,
-    .p4,
     .p5 {
         background-color: #2ecc71;
     }
+
+    .p3 {
+        background-color: #279EFF;
+    }
+
+    .p4 {
+        background-color: #40F8FF;
+    }
+
+    .p5 {
+        background-color: #337CCF;
+    }
+
 }
 
 @media (max-width: 480px) {
